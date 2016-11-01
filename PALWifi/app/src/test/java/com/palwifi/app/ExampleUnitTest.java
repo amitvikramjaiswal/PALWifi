@@ -1,4 +1,4 @@
-package com.palwifi.app.palwifi;
+package com.palwifi.app;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.palwifi.app.palwifi;
+package com.palwifi.app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
